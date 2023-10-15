@@ -1,0 +1,2 @@
+src/main/resources/ai/onnxruntime/extensions/native/linux-x64/libonnxruntime_extensions4j_jni.so filter=lfs diff=lfs merge=lfs -text
+src/main/resources/ai/onnxruntime/extensions/native/win-x64/onnxruntime_extensions4j_jni.dll filter=lfs diff=lfs merge=lfs -text
